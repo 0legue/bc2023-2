@@ -1,3 +1,3 @@
-http://backend.course/github_username/bc2023-2/urls.txt
+http://backend.course/0legue/bc2023-2/urls.txt
 http://backend.course/?name=Oleg%20Homych&0legue&group=FEI-24c&subgroup=subgroup%201
 curl "https://bank.gov.ua/NBUStatService/v1/statdirectory/reserves?date=20190501&json"
